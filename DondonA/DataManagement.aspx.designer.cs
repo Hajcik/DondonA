@@ -11,16 +11,7 @@ namespace DondonA
 {
 
 
-    public partial class SiteMaster
+    public partial class WebForm1
     {
-
-        /// <summary>
-        /// Kontrolka MainContent.
-        /// </summary>
-        /// <remarks>
-        /// Pole generowane automatycznie.
-        /// By zmodyfikować deklaracje pola przenieś ją z pliku projektanta do pliku codebehind.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.ContentPlaceHolder MainContent;
     }
 }
